@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-1551-expose-vault-fee-accrual-as-a-read-only",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-1551-expose-vault-fee-accrual-as-a-read-only": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-1551-expose-vault-fee-accrual-as-a-read-only",
+    "origin"
+  ]
+}
